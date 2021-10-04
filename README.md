@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lll3lll
 - 👀 I’m interested in efficiency
-- 🌱 I’m currently learning data analyses
-- 💞️ I’m looking to collaborate on data analysing projects
+- 🌱 I’m currently learning data analysis
+- 💞️ I’m looking to collaborate on any data analysis projects
 - 📫 How to reach me ...just sent me a message
 
 <!---
